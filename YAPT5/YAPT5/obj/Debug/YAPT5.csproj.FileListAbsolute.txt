@@ -1,0 +1,10 @@
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\bin\Debug\YAPT5.exe.config
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\bin\Debug\YAPT5.exe
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\bin\Debug\YAPT5.pdb
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\obj\Debug\YAPT5.csproj.AssemblyReference.cache
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\obj\Debug\YAPT5.Form1.resources
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\obj\Debug\YAPT5.Properties.Resources.resources
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\obj\Debug\YAPT5.csproj.GenerateResource.cache
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\obj\Debug\YAPT5.csproj.CoreCompileInputs.cache
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\obj\Debug\YAPT5.exe
+C:\Users\yokal\source\repos\YAG-2122\practicaGIT\YAPT5\YAPT5\obj\Debug\YAPT5.pdb
