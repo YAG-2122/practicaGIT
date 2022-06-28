@@ -22,7 +22,7 @@ namespace YAPT5
         private void button1_Click(object sender, EventArgs e)
         {
             
-            
+            //soy yolis
                 Alumno miAlumno = new Alumno();
                 String miAlumnoStr, miAlumnoNotaTexto;
                 miAlumno.Nombre = aluNombre.Text;
